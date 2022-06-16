@@ -1,0 +1,10 @@
+# VS Code Files
+.vscode/
+
+# Build Files
+*.prx
+*.SFO
+*.exp
+*.o
+*.PBP
+*.elf
